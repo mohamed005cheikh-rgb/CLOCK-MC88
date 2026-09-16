@@ -21,7 +21,7 @@ Below the clock, a number counts the days since the first time it was opened. No
 ## 📸 Look Inside
 
 <div align="center">
-  <img src="images/clock.png" alt="The Eternal Clock" width="100%" />
+  <img src="images/clock.jpg" alt="The Eternal Clock" width="100%" />
 </div>
 
 <br />
